@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 I design, plan, shape, optimize and develop digital experiences for people on the Internet.
 
 <!--
 **uebeats/uebeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
