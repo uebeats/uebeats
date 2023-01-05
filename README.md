@@ -1,4 +1,4 @@
-### 👋 I design, plan, shape, optimize and develop digital experiences for people on the Internet.
+### 👋 Con más de 7 años de experiencia en el mundo digital, he logrado trabajar con marcas nacionales e internacionales, tanto privadas como ONG’s. Esto me ha permitido adquirir experiencia significativa a lo largo de los años y conseguir crear sitios y aplicaciones web de alto impacto.
 
 <!--
 **uebeats/uebeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
