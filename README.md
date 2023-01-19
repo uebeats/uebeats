@@ -1,7 +1,7 @@
 ### Sobre mi:
-<p><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hola, mi nombre es Jesús Caballero Peralta, trabajo como desarrollador web en Chile. Tengo más de 7 años de experiencia en el mundo digital y he logrado trabajar con marcas nacionales e internacionales. Estas experiencias me han permitido adquirir conocimiento significativo a lo largo de los años, lo que me ha llevado a conseguir crear sitios y aplicaciones web de alto impacto.</p>
+<p><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hola, mi nombre es <b>Jesús Caballero Peralta</b>, trabajo como desarrollador web en Chile. Tengo más de 7 años de experiencia en el mundo digital y he logrado trabajar con marcas nacionales e internacionales. Estas experiencias me han permitido adquirir conocimiento significativo a lo largo de los años, permitiendome crear sitios y aplicaciones web de alto impacto.</p>
 
-<h4 align="left">Frontend:</h3>
+<h4 align="left">En Frontend :heart_eyes: uso regularmente:</h3>
 <p align="left">
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -27,7 +27,7 @@
   
 </p>
 
-<h4 align="left">Backend:</h3>
+<h4 align="left">para el Backend :grin::</h3>
 <p align="left">
   
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
   
 </p>
 
-<h4 align="left">Maquetación, diseño y otros</h3>
+<h4 align="left">y otras tecnologías :sunglasses: que manejo:</h3>
 <p align="left">
   <a href="https://npm.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
@@ -79,10 +79,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
   </a>
   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/cl/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
       alt="photoshop" width="40" height="40" />
   </a>
+  
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+      alt="trello" width="40" height="40" />
+  </a>
 </p>
-
-<p>Hablemos en hola(at)jesuscaballero.cl</p>
+<h4 align="left">Conectate conmigo en :stars::</h3>
+<p>
+  <a href="https://www.linkedin.com/in/jesus-caballero-peralta/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="linkedin" width="40" height="40" />
+  </a>
+  <a href="https://jesuscaballero.cl" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      alt="website" width="40" height="40" />
+  </a>
+</p>
