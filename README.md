@@ -1,7 +1,7 @@
 ### Sobre mi:
 <p><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="29px"> Hola, mi nombre es <b>Jesús Caballero Peralta</b>, trabajo como desarrollador web en Chile. Tengo más de 7 años de experiencia en el mundo digital y he logrado trabajar con marcas nacionales e internacionales. Estas experiencias me han permitido adquirir conocimiento significativo a lo largo de los años, permitiendome crear sitios y aplicaciones web de alto impacto.</p>
 
-<h4 align="left">En Frontend :heart_eyes: uso regularmente:</h3>
+<h4 align="left">En Frontend :heart_eyes: tengo experiencia usando:</h3>
 <p align="left">
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
