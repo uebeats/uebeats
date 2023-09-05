@@ -1,6 +1,6 @@
 ### Sobre mi:
 <p>Soy Web Developer y me dedico a construir <u>experiencias digitales</u> para personas en Internet. Actualmente trabajo en <strong>Zippy Spa</strong>, una fintech disruptiva que se empeña en ayudar a los comercios a expandir sus servicios en <strong>LATAM</strong>.</p>
-<p>Me encanta colaborar en proyectos Open Source, y en mi tiempo libre me gusta aprender sobre nuevas tecnologías, leer, escuchar música y jugar videojuegos.</p>
+<p>Me encanta colaborar en proyectos Open Source, y en mi tiempo libre me gusta aprender sobre nuevas tecnologías, leer (código sobre todo), escuchar música y jugar videojuegos.</p>
 
 <h4 align="left">En Frontend :heart_eyes: tengo experiencia usando:</h3>
 <p align="left">
