@@ -51,7 +51,7 @@
       alt="php" width="40" height="40">
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg"
       alt="laravel" width="40" height="40">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
