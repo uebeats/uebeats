@@ -1,5 +1,5 @@
 ### Sobre mi:
-<p>Me dedico a construir <u>experiencias digitales</u> para personas en Internet. Actualmente trabajo en <strong>Zippy Pay</strong>, una fintech disruptiva que se empeña en ayudar a los comercios a expandir sus servicios en <strong>LATAM</strong>.</p>
+<p>Me dedico a construir <u>experiencias digitales</u> para personas en Internet. Actualmente trabajo en <strong>Stratech Corp</strong>, una startup disruptiva que se empeña en ayudar a los comercios a expandir sus servicios en <strong>LATAM</strong>.</p>
 <p>Me encanta colaborar en proyectos Open Source, y en mi tiempo libre me gusta aprender sobre nuevas tecnologías, leer (código sobre todo), escuchar música y jugar videojuegos.</p>
 
 <h4 align="left">En Frontend :heart_eyes: tengo experiencia usando:</h3>
@@ -54,9 +54,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg"
       alt="laravel" width="40" height="40">
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40">
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgres" width="40" height="40">
   </a>
   
 </p>
