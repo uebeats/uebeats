@@ -69,12 +69,7 @@
 </p>
 
 <h4 align="left">y otras tecnologías :sunglasses: que manejo:</h3>
-<p align="left">
-  <a href="https://npm.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
-         alt="npm" width="40" height="40" />
-  </a>
-  
+<p align="left">  
   <a href="https://mjml.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/16115896?s=280&v=4" 
          alt="mjml" width="40" height="40">
