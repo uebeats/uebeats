@@ -20,9 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
       alt="sass" width="40" height="40" />
   </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
       alt="react" width="40" height="40" />
@@ -65,6 +62,10 @@
 
 <h4 align="left">y otras tecnologías :sunglasses: que manejo:</h3>
 <p align="left">  
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="javascript" width="40" height="40"/>
+  </a> 
+  
   <a href="https://mjml.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/16115896?s=280&v=4" 
          alt="mjml" width="40" height="40">
