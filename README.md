@@ -1,112 +1,87 @@
-<p>Construyendo software escalable y eficiente para negocios modernos. Ingeniero de desarrollo en Bemobi.</p>
-<p>Me encanta colaborar en proyectos Open Source, y en mi tiempo libre me gusta aprender sobre nuevas tecnologías, leer (código sobre todo), escuchar música y jugar videojuegos.</p>
+<h1 align="center">Jesús Caballero Peralta</h1>
 
-<h4 align="left">En Frontend :heart_eyes: tengo experiencia usando:</h3>
-<p align="left">
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-      alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      alt="react" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-  
+<p align="center">
+  <strong>Development Engineer · Backend Developer · Chile</strong>
 </p>
 
-<h4 align="left">para el Backend :grin::</h3>
-<p align="left">
-  
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-      alt="php" width="40" height="40">
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg"
-      alt="laravel" width="40" height="40">
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgres" width="40" height="40">
-  </a>
-  
+<p align="center">
+  Construyendo software escalable y eficiente para negocios modernos.
 </p>
 
-<h4 align="left">y otras tecnologías :sunglasses: que manejo:</h3>
-<p align="left">  
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://mjml.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/16115896?s=280&v=4" 
-         alt="mjml" width="40" height="40">
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-         alt="git" width="40" height="40" />
-  </a>
-  
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" 
-         alt="wordpress" width="40" height="40" />
-  </a>
-  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" 
-         alt="woocommerce" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.adobe.com/cl/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-      alt="photoshop" width="40" height="40" />
-  </a>
-  
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
-      alt="trello" width="40" height="40" />
-  </a>
+<p align="center">
+  <a href="https://jesuscaballero.cl" target="_blank">Sitio web</a> •
+  <a href="https://www.linkedin.com/in/jesus-caballero-peralta/" target="_blank">LinkedIn</a>
 </p>
-<h4 align="left">Conectate conmigo en :stars::</h3>
+
+---
+
+## Sobre mí
+
+Soy desarrollador de software con foco en backend, APIs y plataformas web orientadas a negocio.
+
+Me gusta construir soluciones mantenibles, escalables y con impacto real. Disfruto trabajar en arquitectura, integraciones, mejora continua y desarrollo de productos digitales.
+
+También me interesa colaborar en proyectos, aprender nuevas tecnologías y seguir perfeccionando buenas prácticas de desarrollo.
+
+---
+
+## Stack tecnológico
+
+### Backend
+
 <p>
-  <a href="https://www.linkedin.com/in/jesus-caballero-peralta/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="linkedin" width="40" height="40" />
-  </a>
-  <a href="https://jesuscaballero.cl" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-      alt="website" width="40" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Herramientas y otras tecnologías
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/MJML-F46519?style=for-the-badge&logo=maildotru&logoColor=white" alt="MJML" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
+
+---
+
+## En lo que disfruto trabajar
+
+- Desarrollo backend
+- APIs REST
+- Plataformas internas de negocio
+- Integraciones entre sistemas
+- Aplicaciones web escalables
+- Mejora de rendimiento y mantenibilidad
+
+---
+
+## Conecta conmigo
+
+- Sitio web: [jesuscaballero.cl](https://jesuscaballero.cl)
+- LinkedIn: [Jesús Caballero Peralta](https://www.linkedin.com/in/jesus-caballero-peralta/)
+
+---
+
+## Enfoque
+
+> Construir software útil, mantenible y preparado para crecer.
